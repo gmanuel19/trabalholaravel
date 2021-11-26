@@ -1,0 +1,36 @@
+.navbar-light{
+    background-color: #0079c6;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#brand{
+    width: 50%;
+}
+
+.table{
+    border: solid 1px black;
+}
+
+.table tr{
+    border: solid 1px black;
+}
+
+.table th{
+    border: solid 1px black;
+}
+
+footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    background-color: #000000;
+    width: 100%;
+    padding: 1%;
+}
+
+footer p{
+    color: #ffffff;
+}
